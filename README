@@ -1,0 +1,32 @@
+# 🎬 Netflix Movies & TV Shows Analysis
+
+### Internship Project - Dynamix Networks (Data Analytics)
+
+This project analyzes Netflix’s catalog of movies and TV shows to uncover content trends, genres, ratings, and regional distributions.
+
+---
+
+## 🧰 Tools Used
+- Python (Pandas, NumPy)
+- Matplotlib, Seaborn
+- Google Colab
+
+---
+
+## 📊 Key Insights
+1. Movies make up most of Netflix’s content library.
+2. USA, India, and UK are top-producing countries.
+3. Huge content growth after 2015.
+4. Most common genres: International Movies, Dramas, Comedies.
+5. Rating ‘TV-MA’ dominates the platform.
+
+---
+
+## 📁 Dataset
+[Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
+---
+
+## 👩‍💻 Submitted by
+**YARRABATHINA JAHNAVI**  
+Data Analytics Intern – Dynamix Networks
